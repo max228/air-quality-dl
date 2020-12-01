@@ -1,4 +1,3 @@
-const { getAreaSensors } = require('./api')
 const arg = require('arg')
 const fs = require('fs');
 const { default: fetch } = require('node-fetch');
@@ -98,6 +97,8 @@ const args = arg({
   '-i': '--input'
 })
 if (args['--start'], args['--end'], args['--input']) {
+  if (!fs.existsSync('raw'))
+  fs.mkdirSync('raw')
   dlAll(args['--input'], args['--start'], args['--end'])
 } else {
   console.log('In order to download data you have to provide 3 arguments');

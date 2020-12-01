@@ -53,15 +53,6 @@
   },
   "indoor": false
 }, {
-  "sensorID": 32194,
-  "sensorType": "SDS011",
-  "location": {
-    "lng": "74.578",
-    "lat": "42.852",
-    "alt": "796.0"
-  },
-  "indoor": true
-}, {
   "sensorID": 33362,
   "sensorType": "DHT22",
   "location": {
