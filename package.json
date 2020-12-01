@@ -1,0 +1,11 @@
+{
+  "name": "air-quality",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "cli-progress": "^3.8.2",
+    "node-fetch": "^2.6.1"
+  }
+}

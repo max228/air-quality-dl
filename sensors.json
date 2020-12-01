@@ -1,0 +1,127 @@
+[{
+  "sensorID": 32373,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.628",
+    "lat": "42.846",
+    "alt": "838.3"
+  },
+  "indoor": false
+}, {
+  "sensorID": 34313,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.55434883468",
+    "lat": "42.88526347750",
+    "alt": "731.9"
+  },
+  "indoor": false
+}, {
+  "sensorID": 35746,
+  "sensorType": "DHT22",
+  "location": {
+    "lng": "74.628",
+    "lat": "42.812",
+    "alt": "921.8"
+  },
+  "indoor": false
+}, {
+  "sensorID": 35745,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.628",
+    "lat": "42.812",
+    "alt": "921.8"
+  },
+  "indoor": false
+}, {
+  "sensorID": 47695,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.51924014033",
+    "lat": "42.88107759278",
+    "alt": "730.8"
+  },
+  "indoor": false
+}, {
+  "sensorID": 34715,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.606",
+    "lat": "42.87",
+    "alt": "770.1"
+  },
+  "indoor": false
+}, {
+  "sensorID": 32194,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.578",
+    "lat": "42.852",
+    "alt": "796.0"
+  },
+  "indoor": true
+}, {
+  "sensorID": 33362,
+  "sensorType": "DHT22",
+  "location": {
+    "lng": "74.596",
+    "lat": "42.81",
+    "alt": "906.0"
+  },
+  "indoor": false
+}, {
+  "sensorID": 33361,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.596",
+    "lat": "42.81",
+    "alt": "906.0"
+  },
+  "indoor": false
+}, {
+  "sensorID": 35678,
+  "sensorType": "DHT22",
+  "location": {
+    "lng": "74.582",
+    "lat": "42.828",
+    "alt": "863.2"
+  },
+  "indoor": false
+}, {
+  "sensorID": 33016,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.60585027933",
+    "lat": "42.92308116289",
+    "alt": "691.5"
+  },
+  "indoor": false
+}, {
+  "sensorID": 32374,
+  "sensorType": "DHT22",
+  "location": {
+    "lng": "74.628",
+    "lat": "42.846",
+    "alt": "838.3"
+  },
+  "indoor": false
+}, {
+  "sensorID": 35677,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.582",
+    "lat": "42.828",
+    "alt": "863.2"
+  },
+  "indoor": false
+}, {
+  "sensorID": 33628,
+  "sensorType": "SDS011",
+  "location": {
+    "lng": "74.71",
+    "lat": "42.806",
+    "alt": "894.5"
+  },
+  "indoor": false
+}]
